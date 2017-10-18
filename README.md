@@ -1,3 +1,10 @@
+****************************************************************************************************************************************************************************************************************************************************
+
+THIS REPOSITORY IS CURRENTLY A CLONE OF: https://github.com/AndrewAMD/AllyInvestZorroPlugin that will be modified for another broker. Please use the original repository. 
+
+**************************************************************************************************************************
+**************************************************************************************************************************
+
 # Ally Invest Plugin for Zorro
 
 Ally Invest is an low-commission stocks and options broker for USA residents.  Ally offers its users a REST API, which uses XML and JSON.  Orders are placed in a FIXML-variant language.
